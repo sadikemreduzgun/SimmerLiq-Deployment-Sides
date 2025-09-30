@@ -9,3 +9,4 @@
 9. Create auth.domain.com certificate in ACM for custom domain configuration
 10. Get Alias target from Cognito>User Pools>Branding>Domain
 11. Go to Route53 again and add an A record selecting alias option and in the services menu, select alias to CloudFront distribution and paste Alias target copied.
+12. Use AWS Cognito sub for second database which holds app specific data stored in DynamoDB
