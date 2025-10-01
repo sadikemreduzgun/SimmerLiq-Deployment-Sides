@@ -9,7 +9,7 @@ go to ssh then find your project if it is running on the server. When pycharm wo
 Here it comes to packaging. Python package system gives error and it can't find packages. If you developed your project using Pycharm and packages and you want to run your
 scripts on the server, you face an error. You can easily start your scripts using pycharm run button but not in the ssh session. You may want to run some scripts at the background
 and then you are not able to start the script. Solution is exporting an environmental variable that declares your project directory: 
-<br>
+<br><br><br>
 
 ```
 export PYTHONPATH=path_to_your_project:$PYTHONPATH 
