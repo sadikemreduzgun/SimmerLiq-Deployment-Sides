@@ -1,4 +1,4 @@
-1. Create beta version on a big VM in 1-2 months, get KYC and Licences, get permissions from open source authorities and trading platform data usages,
+1. Create beta version on a big VM in 1-2 months, get KYC and SPK Licences, get permissions from open source authorities and trading platform data usages,
    create nicely-designed, scalable data pipelines. Design auth side securely. Use port forwarding and remote development.
 2. Create all images, k8s, deployment working without problems, deisgn microservices all loosely-coupled, start mobile app side.
 * backend microservices, strategy integration
