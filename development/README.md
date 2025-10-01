@@ -10,7 +10,11 @@ Here it comes to packaging. Python package system gives error and it can't find 
 scripts on the server, you face an error. You can easily start your scripts using pycharm run button but not in the ssh session. You may want to run some scripts at the background
 and then you are not able to start the script. Solution is exporting an environmental variable that declares your project directory: 
 <br>
+
 ```
 export PYTHONPATH=path_to_your_project:$PYTHONPATH 
+```
+
+```
 export PYTHONPATH=/home/ubuntu/pycharm_project:$PYTHONPATH # an example
 ```
