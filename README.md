@@ -8,6 +8,10 @@ Let's cook the market together.
 ![Uploading drawing.svg…]<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
+
+<br><br><br><br>© <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    width="210mm"
    height="297mm"
@@ -84,7 +88,5 @@ Let's cook the market together.
     </g>
   </g>
 </svg>
-()
-
-
-<br><br><br><br>© 2025 SimmerLiq
+![drawing](https://github.com/user-attachments/assets/c46632e7-46c6-4280-a910-3e370608465a)
+2025 SimmerLiq
